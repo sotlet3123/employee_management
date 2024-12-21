@@ -1,4 +1,5 @@
 # employee_management
 php/mysql
 creat and import db : employee_management
-login: {admin ; 123}
+Edit account db in file db_connect.php to run web
+login web: {admin ; 123}
